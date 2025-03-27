@@ -3,5 +3,6 @@
 
 }
 .cabeçalho{
-    color: black;
+    background-color: black;
+    display: flex;
 }
