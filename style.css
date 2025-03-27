@@ -4,5 +4,5 @@
 }
 .cabeçalho{
     background-color: black;
-    display: flex;
+    display: block;
 }
