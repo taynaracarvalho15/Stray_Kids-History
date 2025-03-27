@@ -1,8 +1,12 @@
-.background{
+.background {
     background-color: rgb(100, 0, 0);
 
 }
-.cabeçalho{
-    color: black;
-    display: block;
+.cabeçalho {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    
 }
