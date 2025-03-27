@@ -3,7 +3,7 @@
 
 }
 .cabeçalho {
-    background-color: rgb(100, 0, 0);
+    background-color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
