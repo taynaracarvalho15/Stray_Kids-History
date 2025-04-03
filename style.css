@@ -16,6 +16,9 @@
 }
 
 .cabeçalho-meio {
-    color: black;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     padding: 9px 0;
 }
