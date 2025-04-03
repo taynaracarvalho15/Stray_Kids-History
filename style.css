@@ -3,3 +3,11 @@
     padding: 12;
     font-family: cursive;
 }
+ 
+.cabeçalho {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+}
