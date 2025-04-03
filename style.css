@@ -12,5 +12,5 @@
     display: flex;
     justify-content: space-around;
     align-self: normal;
-    padding: 15px;
+    padding: 15px 0;
 }
